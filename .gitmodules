@@ -1,0 +1,12 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/Renato28/server.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/Renato28/gateway.git
+[submodule "pagamentos"]
+	path = pagamentos
+	url = https://github.com/Renato28/pagamentos.git
+[submodule "pedidos"]
+	path = pedidos
+	url = https://github.com/Renato28/pedidos.git
